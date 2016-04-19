@@ -1,0 +1,1 @@
+A ToDo system that can be used via any XMPP compatible chat client (Jabber, Google Talk, etc.).
